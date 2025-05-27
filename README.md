@@ -1,5 +1,4 @@
-# Infinity Square/Space 1.0.1
-#### [nvjob.github.io/unity/infinity-square-space](https://nvjob.github.io/unity/infinity-square-space)
+# Infinity Space 1.0.1
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/infinity%20square%20space/101/pic/10.jpg)
 
@@ -52,9 +51,3 @@ When you first start in the editor, first start the “Menu” scene to apply th
 
 -------------------------------------------------------------------
 
-**Authors:** [#NVJOB. Developer Nicholas Veselov. Разработчик Николай Веселов. Санкт-Петербург.](https://nvjob.github.io)
-
-**License:** MIT License. [Clarification of licenses](https://nvjob.github.io/mit-license).
-
-**🖤 Donate:** <br>
-[paypal.me/nvjob](https://paypal.me/nvjob)
