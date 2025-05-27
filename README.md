@@ -15,8 +15,7 @@ The source contains all the tools for the development of the game, but you need 
 - Artificial intelligence, with a primitive simulation of life and interaction with each other, the world and the player.
 - Game controller, with a set of weapons and skills.
 
-**Download standalone version on Itch.io** - https://nvjob.itch.io/infinity-squarespace-standalone <br/>
-**WEB version on Itch.io** - https://nvjob.itch.io/infinity-square-space-web
+**Download standalone version on Itch.io** - [https://nvjob.itch.io/infinity](https://iiblacklotosii.itch.io/infinity)-InfinityJam <br/>
 
 -------------------------------------------------------------------
 
@@ -25,7 +24,6 @@ To work on the project, you will need a Unity version of at least 2019.1.8 or hi
 Scripting Runtime Version - .net 4.x Equivalent 
 
 ### Installation:
-https://www.youtube.com/watch?v=1DalkV98lyI<br/>
 - Create a new project in Unity.
 - Download Assets and ProjectSettings and place them in the folder of your new project.
 - Open the desired scene in the Scenes directory.
