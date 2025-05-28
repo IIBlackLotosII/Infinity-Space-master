@@ -15,7 +15,7 @@ The source contains all the tools for the development of the game, but you need 
 - Artificial intelligence, with a primitive simulation of life and interaction with each other, the world and the player.
 - Game controller, with a set of weapons and skills.
 
-**Download standalone version on Itch.io** - (https://iiblacklotosii.itch.io/infinity) - InfinityJam <br/>
+**Download standalone version on Itch.io** - (https://iiblacklotosii.itch.io/infinity) - InfinityJam  Password: 98753985<br/>
 
 -------------------------------------------------------------------
 
